@@ -9,8 +9,7 @@
     "CreeperMixin",
     "CropBlockMixin",
     "MapItemMixin",
-    "MobMixin",
-    "MonsterMixin"
+    "MobMixin"
   ],
   "injectors": {
     "defaultRequire": 1

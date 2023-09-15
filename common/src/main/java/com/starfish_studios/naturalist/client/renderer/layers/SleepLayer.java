@@ -3,7 +3,6 @@ package com.starfish_studios.naturalist.client.renderer.layers;
 import com.mojang.blaze3d.vertex.PoseStack;
 import com.starfish_studios.naturalist.Naturalist;
 import com.starfish_studios.naturalist.entity.SleepingAnimal;
-import com.starfish_studios.naturalist.entity.Snake;
 import net.fabricmc.api.EnvType;
 import net.fabricmc.api.Environment;
 import net.minecraft.client.renderer.MultiBufferSource;
